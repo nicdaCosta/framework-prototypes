@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/nicdaCosta/framework-prototypes/issues"
   },
-  "homepage": "https://github.com/nicdaCosta/framework-prototypes#readme"
+  "homepage": "https://github.com/nicdaCosta/framework-prototypes#readme",
+  "devDependencies": {
+    "browser-sync": "^2.12.5",
+    "gulp": "^3.9.1",
+    "gulp-jade": "^1.1.0"
+  }
 }
